@@ -1,0 +1,9 @@
+.headline {
+    font-family: 'Times New Roman', Times, serif;
+    color: aqua;
+    background-color: rgb(255, 8, 0);
+}
+
+.recipe {
+    font-weight: bold;
+}
