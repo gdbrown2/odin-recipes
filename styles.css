@@ -1,9 +1,26 @@
 .headline {
     font-family: 'Times New Roman', Times, serif;
-    color: aqua;
-    background-color: rgb(255, 8, 0);
+    color: white;
+    text-align: center;
+    border-bottom: 5px solid black;
+    padding: 0;
+    margin-bottom: 50px;
+    
+    
 }
 
+
 .recipe {
-    font-weight: bold;
+    font-weight: bold; 
+    color: white;
+    font-family: 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size:  24px;
+    
+}
+
+
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap');
+
+body {
+    background: gray;
 }
